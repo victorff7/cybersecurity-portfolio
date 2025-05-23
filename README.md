@@ -10,6 +10,7 @@ Olá! Este é meu espaço para registrar meu progresso na área de ciberseguran�
 
 - [x] Ataque simulado a um banco fictício (Red Team)
 - [x] Detecção e bloqueio de IP malicioso com SIEM (Blue Team)
-- [x] Search Skills
+- [x] Search Skills at TryHackMe
+- [x] Linux Fundamentals Part I at TryHackMe
 
 Em breve, adicionarei mais desafios resolvidos, scripts e análises técnicas!
