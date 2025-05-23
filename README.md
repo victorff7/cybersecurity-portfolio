@@ -7,7 +7,7 @@ Este é meu espaço para registrar meu progresso na área de segurança digital.
 
 ## 🏅Certificações
 
-- [✅ Google Professional Cybersecurity Certificate] (https://www.credly.com/badges/38ea3ff6-853c-44cf-970c-b7e0f8826918/public_url)
+- [✅ Google Professional Cybersecurity Certificate](https://www.credly.com/badges/38ea3ff6-853c-44cf-970c-b7e0f8826918/public_url)
 
 ## 🎓 Plataformas de Aprendizado
 
