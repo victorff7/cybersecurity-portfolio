@@ -1,6 +1,13 @@
 # 🛡️ Cybersecurity Portfolio
 
-Olá! Este é meu espaço para registrar meu progresso na área de cibersegurança.
+Olá! Me chamo Victor, sou estudante de Engenharia de Computação e entusiasta da cibersegurança.
+Este é meu espaço para registrar meu progresso na área de segurança digital.
+
+📎 Link do meu perfil no Linkedin: www.linkedin.com/in/victor-matheus-freire-feitosa
+
+## 🏅Certificações
+
+- [✅ Google Professional Cybersecurity Certificate] (https://www.credly.com/badges/38ea3ff6-853c-44cf-970c-b7e0f8826918/public_url)
 
 ## 🎓 Plataformas de Aprendizado
 
@@ -13,4 +20,4 @@ Olá! Este é meu espaço para registrar meu progresso na área de ciberseguran�
 - [x] Search Skills at TryHackMe
 - [x] Linux Fundamentals Part I at TryHackMe
 
-Em breve, adicionarei mais desafios resolvidos, scripts e análises técnicas!
+
